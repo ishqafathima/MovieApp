@@ -11,7 +11,7 @@ A simple mobile application built using React Native and Expo that allows users 
 Technologies
 - React Native
 - Expo
-- JavaScript 
+- TypeScript
 
  Installation
 
